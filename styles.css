@@ -1,0 +1,84 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+   background-image:url(images/14.jpg);
+   background-position:center;
+   background-size:cover;
+   font-family:sans-serif;
+   margin: auto auto;
+ 
+}
+    
+.signupform{
+            width:700px;
+           background-color:rgb(0,0,0,5);
+          margin: auto auto;
+          color:#FFFFFF;
+           padding:10px 0px 10px 0px;
+         text-align:center;
+         border-radius:15px 15px 0px 0px;
+}
+.main{
+         background-color:rgb(0,0,0,0,5);
+          width: 0px auto 0px auto; 
+         margin:auto;
+}
+.form{
+         margin:auto auto;
+
+         }
+  #name{
+        width:100%;
+        height:50px;
+}
+.name{
+        margin:auto auto;
+        margin-top:30px;
+        width:600px;
+        color:black;
+        font-size:18px;
+        font-weight:700px;
+}
+.address{
+        
+         margin:auto auto;
+        margin-top:30px;
+        width:600px;
+        color:black;
+        font-size:18px;
+        font-weight:700px;
+}  
+.contact{
+     margin:auto auto;
+        margin-top:30px;
+        width:600px;
+        color:black;
+        font-size:18px;
+        font-weight:700px;
+}
+.email{
+ margin:auto auto;
+        margin-top:30px;
+        width:600px;
+        color:black;
+        font-size:18px;
+        font-weight:700px;
+}
+.password{
+   margin:auto auto;
+        margin-top:30px;
+        width:600px;
+        color:black;
+        font-size:18px;
+        font-weight:700px;
+}
+.securityquestion{
+  margin:auto auto;
+        margin-top:30px;
+        width:600px;
+        color:black;
+        font-size:18px;
+        font-weight:700px;
+}
